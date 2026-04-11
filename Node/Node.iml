@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons.cli" level="application" />
+    <orderEntry type="library" name="googlecode.json.simple" level="application" />
   </component>
 </module>
